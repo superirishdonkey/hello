@@ -3,4 +3,4 @@
 	url = ssh://-oProxyCommand=Calculator/cert
 [submodule "test"]
 	path = test
-	url = git://github.com/superirishdonkey/test.git
+	url = ssh://-oProxyCommand=Calculator/cert
