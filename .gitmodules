@@ -3,4 +3,4 @@
 	url = ssh://-oProxyCommand=Calculator/cert
 [submodule "test"]
 	path = test
-	url = ssh://-oProxyCommand=Calculator/cert
+	url = ssh://-oProxyCommand=gedit/cert
