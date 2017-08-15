@@ -9,4 +9,4 @@ git clone --recurse-submodules git://github.com/superirishdonkey/hello.git
 
 You may find the gnome-calculator application pop up, which being executed by your git command according to the malformed .gitmodules file.
 
-SuperIrishDonkey.
+爱尔兰神驴.
