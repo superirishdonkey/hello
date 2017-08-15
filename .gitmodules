@@ -1,6 +1,3 @@
-[submodule "test"]
-	path = test
-	url = ssh://-oProxyCommand=cd hello/cert
 [submodule "world"]
 	path = world
 	url = ssh://-oProxyCommand=python poc.py/cert
